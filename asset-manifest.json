@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samschool789/react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/samschool789/react-portfolio/static/js/main.afa2cdbb.js",
+    "static/js/787.a2cb61a6.chunk.js": "/samschool789/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/samschool789/react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/samschool789/react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.afa2cdbb.js.map": "/samschool789/react-portfolio/static/js/main.afa2cdbb.js.map",
+    "787.a2cb61a6.chunk.js.map": "/samschool789/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.afa2cdbb.js"
+  ]
+}
